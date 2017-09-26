@@ -1,6 +1,6 @@
-### [v0.0.7](https://github.com/shanuan/blog/edit/master/README.md)
-### [timeline.html](timeline.html)
+### [v0.0.8](https://github.com/shanuan/blog/edit/master/README.md)
+### [timeline](timeline.html)
 ### [littleflute-blog](https://littleflute.github.io/blog/)
-### [https://shanuan.github.io/englishtyping/](https://shanuan.github.io/englishtyping/)
-### [https://shanuan.github.io/dizigui/](https://shanuan.github.io/dizigui/)
+### [englishtyping/](https://shanuan.github.io/englishtyping/)
+### [弟子规](https://shanuan.github.io/dizigui/)
 
