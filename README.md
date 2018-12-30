@@ -1,4 +1,5 @@
-### [v0.0.12](https://github.com/shanuan/blog/edit/master/README.md) [me](https://shanuan.github.io/blog/)
+### [v0.0.13](https://github.com/shanuan/blog/edit/master/README.md) [me](https://shanuan.github.io/blog/)
+## [chinese](chinese)
 ## [mp4](mp4)
 ### [timeline](timeline.html)
 ### [littleflute-blog](https://littleflute.github.io/blog/)
